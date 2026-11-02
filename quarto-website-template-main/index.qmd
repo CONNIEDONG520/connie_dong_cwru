@@ -1,0 +1,28 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "profile_pic.jpg"
+  links:
+    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/connie-jieyi-dong-34365b304/
+    - icon: envelope
+      text: Email
+      href: "mailto:cxd460@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Cross that bridge when we come to it.
+
+Welcome to my website! My name is Connie Dong, and I am currently a senior majoring in Nutritional Biochemistry and Metabolism at Case Western Reserve University, with minors in Chemistry, Biology, and Japanese. I am particularly interested in understanding the biological mechanisms underlying nutrition, health, and disease and how scientific research can inform evidence-based healthcare practices.
+
+This past summer, I participated in undergraduate research at Cleveland Clinic's Erzurum Lab, where I assisted with laboratory procedures, data analysis, and research communication. My research experience includes exploring the association between mitochondrial DNA and asthma risk. Beyond the laboratory, I have also gained exposure to clinical nutrition and healthcare operations through internships and dietitian shadowing at Shanghai United Family Hospital.
+
+Through this website, I hope to share my academic journey of developing analytical skills, exploring scientific investigations, and learning how scientific evidence can be translated into meaningful insights.
+
+Please feel free to [contact me](mailto:cxd460@case.edu).
+
